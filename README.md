@@ -14,6 +14,7 @@ Guidelines
 
 The user needs to be able to initialize the start state as numerical list ( 0 to 9) separate by a space. The number zero indicates the blank space. See example: 
 
+start Board: 
 - 0 0 3 0 0 9 4 6 0
 - 0 0 6 0 0 0 1 0 0
 - 0 0 0 6 3 2 0 0 0
@@ -23,3 +24,13 @@ The user needs to be able to initialize the start state as numerical list ( 0 to
 - 0 0 0 5 4 7 0 0 0
 - 0 0 2 0 0 0 8 0 0
 - 0 4 5 1 0 0 9 0 0 
+solved Board:
+- 2 7 3 8 1 9 4 6 5
+- 9 8 6 4 7 5 1 2 3
+- 4 5 1 6 3 2 7 9 8
+- 5 6 7 9 8 1 3 4 2
+- 1 2 4 7 5 3 6 8 9
+- 8 3 9 2 6 4 5 1 7
+- 6 9 8 5 4 7 2 3 1
+- 7 1 2 3 9 6 8 5 4
+- 3 4 5 1 2 8 9 7 6
